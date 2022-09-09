@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-<h3 align="center">Software developer from Spain</h3>
+<h3 align="center">Software developer from Spain :es:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouro17&label=Profile%20views&color=0e75b6&style=flat" alt="ouro17" /> </p>
 
 <h3 align="left">About me:</h3>
 <p align="left">I’m interested in game design :video_game:, anime :japanese_ogre:, music :musical_keyboard: and languages :speech_balloon:</p>
-<p align="left">I’m currently learning Dutch and tons of other stuff :construction:</p>
+<p align="left">I’m currently learning Korean :kr:, Japanese :jp: and tons of other stuff :construction:</p>
 <p align="left">
 <a href="https://twitter.com/ouro17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ouro17" height="30" width="40" /></a>
 </p>
